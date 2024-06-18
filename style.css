@@ -5,7 +5,10 @@
 
 html {
   font-family: Arial, Helvetica, sans-serif;
-  
+  background: linear-gradient(to bottom, #468af1, #6ea6f0, #add8e6);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
 }
 
 body {
@@ -13,13 +16,6 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-}
-
-.container {
-  background: linear-gradient(to bottom, #468af1, #6ea6f0, #add8e6);
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: 100% 100%;
 }
 
 .center-align {
