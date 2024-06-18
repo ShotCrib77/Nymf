@@ -68,11 +68,17 @@ body {
   * {
     font-size: 70%;
   }
+  body {
+    background: linear-gradient(to bottom, #468af1, #6ea6f0, #add8e6);
+  }
 }
 
 @media (max-width: 750px) {
   * {
     font-size: 55%;
+  }
+  body {
+    background: linear-gradient(to bottom, #468af1, #6ea6f0, #add8e6);
   }
 }
 
@@ -80,11 +86,16 @@ body {
   * {
     font-size: 45%;
   }
-  
+  body {
+    background: linear-gradient(to bottom, #468af1, #6ea6f0, #add8e6);
+  }
 }
 
 @media (max-width: 390px) {
   * {
     font-size: 30%;
+  }
+  body {
+    background: linear-gradient(to bottom, #468af1, #6ea6f0, #add8e6);
   }
 }
