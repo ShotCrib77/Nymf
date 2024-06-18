@@ -68,16 +68,25 @@ body {
   * {
     font-size: 70%;
   }
+  #middle-cloud {
+    margin-top: 12.5%;
+  }
 }
 
 @media (max-width: 500px) {
   * {
     font-size: 55%;
   }
+  #middle-cloud {
+    margin-top: 17.5%;
+  }
 }
 
 @media (max-width: 390px) {
   * {
     font-size: 45%;
+  }
+  #middle-cloud {
+    margin-top: 20%;
   }
 }
