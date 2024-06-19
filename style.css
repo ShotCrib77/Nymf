@@ -4,7 +4,9 @@
 }
 
 html {
+  
   font-family: Arial, Helvetica, sans-serif;
+  background-color: #468af1;
   background: linear-gradient(to bottom, #468af1, #6ea6f0, #add8e6);
   background-repeat: no-repeat;
   background-attachment: fixed;
